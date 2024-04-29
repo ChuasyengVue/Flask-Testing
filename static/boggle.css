@@ -1,0 +1,33 @@
+.board{
+    border: solid 2px black;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+   
+      
+}
+
+
+h1{
+    text-align: center;
+}
+
+.highscore {
+    text-align: center;
+}
+
+
+.add_word{ text-align: center;}
+
+.msg{
+    text-align: center;
+}
+
+.submit{
+    color: green;
+}
+body{
+    background-color: aqua;
+}
